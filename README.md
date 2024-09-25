@@ -2,9 +2,9 @@
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning Full Stack Web Development.
 
--💬  Ask me about SQL, PHP, REACT JS, NODE JS, HTML, CSS, JavaScript,C,C++.
+-💬  Ask me about SQL,HTML CSS,C,C++ JavaScript, JAVA,Bootstrap,
 - 📫 How to reach me nikhillawale2911@gmail.com
-- 
+
   
 
 
