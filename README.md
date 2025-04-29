@@ -4,7 +4,7 @@
 
 -📚 Currently enhancing my skills in Data Structures and Algorithms
 
--💻 Proficient in Java, SQL, HTML, CSS, JavaScript, Spring, Spring Boot, and Hibernate
+-💻 Proficient in Java, SQL, HTML, CSS, JavaScript, Spring, Spring Boot, and Hibernate,git
 
 -🤝 I’m open to collaborating on innovative software development projects
 
