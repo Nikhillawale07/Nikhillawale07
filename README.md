@@ -1,15 +1,13 @@
-🚀 About Me:
-I'm a passionate Full Stack Java Developer with a strong foundation in building scalable and efficient web applications. I enjoy solving real-world problems through clean and maintainable code. Currently, I'm enhancing my skills in Data Structures and Algorithms to strengthen my problem-solving capabilities.
+-👋 Hi, I'm Nikhil Nagnath Lawale
 
-💻 Technical Skills:
--Languages: Java, SQL, HTML, CSS, JavaScript
--Frameworks & Tools: Spring, Spring Boot, Hibernate, Git, GitHub
--Currently Learning: Data Structures and Algorithms.
+-🔍 I’m passionate about Full Stack Java Development
 
-📫 Contact Me:
-📧 Email: nikhillawale2911@gmail.com
-📱 Mobile: +91 98347 37869
+-📚 Currently enhancing my skills in Data Structures and Algorithms
 
-🤝 Let’s Collaborate:
-I'm open to contributing to innovative and impactful software development projects. Feel free to connect if you're working on something exciting!
+-💻 Proficient in Java, SQL, HTML, CSS, JavaScript, Spring, Spring Boot, and Hibernate,git,Github, -Curretly Learning-Data Structures and Algorithms
 
+-🤝 I’m open to collaborating on innovative software development projects
+
+-📬 You can reach me at: nikhillawale2911@gmail.com
+
+-📱 Mobile: +91 9834737869
