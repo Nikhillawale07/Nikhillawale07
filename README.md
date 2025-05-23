@@ -4,7 +4,7 @@
 
 -📚 Currently enhancing my skills in Data Structures and Algorithms
 
--💻 Proficient in Java, SQL, HTML, CSS, JavaScript, Spring, Spring Boot, and Hibernate,git,Github, -Curretly Learning-DSA
+-💻 Proficient in Java, SQL, HTML, CSS, JavaScript, Spring, Spring Boot, and Hibernate,git,Github, -Curretly Learning-Data Structures and Algorithms
 
 -🤝 I’m open to collaborating on innovative software development projects
 
