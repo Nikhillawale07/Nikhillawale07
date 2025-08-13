@@ -100,7 +100,7 @@ I’m a results-driven and passionate **Full Stack Java Developer** with a stron
 ### 🔭 Currently Working On
 
 - 🚀 Java backend development using Spring Boot & Hibernate  
-- 🧠 Problem solving with DSA & LeetCode practice  
+- 🧠 Problem solving with DSA , hackerrank & LeetCode practice  
 - 🛠️ Building full stack projects to enhance real-world skills  
 - 🌱 Learning advanced design patterns & microservices
 
