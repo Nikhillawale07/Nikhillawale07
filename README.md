@@ -1,16 +1,6 @@
-<!-- Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Nikhil+Nagnath+Lawale" alt="Typing Name Animation" />
-</h1>
+<!-- Header --> 
 
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+Hibernate+%7C+REST+APIs;SQL+%7C+DSA+%7C+Clean+Code+Practitioner;Building+scalable%2C+maintainable+software" alt="Typing SVG" />
-  </a>
-</p>
-
----
+<h1 align="center">👋 Hi, I'm Nikhil Nagnath Lawale</h1> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+Hibernate+%7C+REST+APIs;SQL+%7C+DSA+%7C+Clean+Code+Practitioner;Building+scalable%2C+maintainable+software" alt="Typing SVG" /> </a> </p> ---
 
 ## 🧑‍💻 About Me
 I am a **Full Stack Java Developer** with expertise in **Java, Spring Boot, Hibernate, SQL, and Web Technologies**.  
