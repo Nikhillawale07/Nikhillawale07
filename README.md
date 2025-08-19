@@ -1,39 +1,40 @@
+<!-- Header -->
 <h1 align="center">👋 Hi, I'm Nikhil Nagnath Lawale</h1>
-
 <p align="center">
-  🚀 Full Stack Java Developer | 💡 Problem Solver | 🎯 Lifelong Learner
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+Hibernate+%7C+REST+APIs;SQL+%7C+DSA+%7C+Clean+Code+Practitioner;Building+scalable%2C+maintainable+software" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me  
-
+## 🧑‍💻 About Me
 I am a **Full Stack Java Developer** with expertise in **Java, Spring Boot, Hibernate, SQL, and Web Technologies**.  
-Passionate about building scalable applications and solving complex problems, I continuously enhance my skills in **Data Structures & Algorithms** while contributing to real-world projects.  
+Passionate about building scalable applications and solving complex problems, I continuously enhance my skills in **Data Structures & Algorithms** while contributing to real-world projects.
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠️ Technical Skills
 
-### 💻 Languages & Web Technologies  
+### 💻 Languages & Web Technologies
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
 </p>
 
-### ⚙️ Frameworks & Libraries  
+### ⚙️ Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/JDBC-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java%20Collections-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JDBC-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java%20Collections-FF8C00?style=for-the-badge" />
 </p>
 
-### 🧰 Tools & IDEs  
+### 🧰 Tools & IDEs
 <p>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
@@ -44,12 +45,12 @@ Passionate about building scalable applications and solving complex problems, I 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-### 🗄️ Databases  
+### 🗄️ Databases
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
 </p>
 
-### 🧠 Soft Skills  
+### 🧠 Soft Skills
 <p>
   <img src="https://img.shields.io/badge/Problem%20Solving-4CAF50?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Communication-2196F3?style=for-the-badge" />
@@ -58,7 +59,7 @@ Passionate about building scalable applications and solving complex problems, I 
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nikhillawale1999/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Nikhillawale07" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -70,22 +71,25 @@ Passionate about building scalable applications and solving complex problems, I 
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhillawale07&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhillawale07&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhillawale07&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhillawale07&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
 
-## 🔭 Currently Working On  
-- 🚀 Backend development with **Spring Boot & Hibernate**  
-- 🧠 DSA practice on **HackerRank & LeetCode**  
-- 🛠️ Building **Full Stack projects** for real-world applications  
-- 🌱 Exploring **design patterns & microservices**  
+## 🔭 Currently Working On
+- Backend development with **Spring Boot & Hibernate**  
+- DSA practice on **HackerRank & LeetCode**  
+- Building **Full Stack projects** for real-world applications  
+- Exploring **design patterns & microservices**
 
 ---
 
-## 💬 Fun Fact  
-> 🏗️ In software development, **80% of the lifetime cost of a piece of software goes into maintenance**.  
-> That’s why I focus on writing **clean, maintainable, and scalable code**—because code is read more often than it is written.  
+## 💬 Professional Insight
+> 🛠️ Most software cost is incurred during **maintenance and evolution**.  
+> I prioritize **readability, testability, and clean architecture** so features scale without compromising quality.
+
+<!-- Animated footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:111827&text=&section=footer&reversal=true&fontAlign=50&descAlign=50" width="100%" />
