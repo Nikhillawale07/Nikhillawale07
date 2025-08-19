@@ -1,8 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Nikhil+Nagnath+Lawale" alt="Animated Name" />
-  </a>
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=👋%20Hi%2C%20I'm%20Nikhil%20Nagnath%20Lawale&width=800&height=120" alt="Glitch Animated Name" />
 </h1>
 
 <p align="center">
@@ -12,8 +10,6 @@
 </p>
 
 ---
-
-
 
 ## 🧑‍💻 About Me
 I am a **Full Stack Java Developer** with expertise in **Java, Spring Boot, Hibernate, SQL, and Web Technologies**.  
