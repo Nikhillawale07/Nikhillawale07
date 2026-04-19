@@ -11,6 +11,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nikhillawale07&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -27,40 +31,17 @@ I am a **results-driven Java Backend Developer** with **1+ year of hands-on expe
 
 ## 🛠️ Technical Skills
 
-### 💻 Languages & Web Technologies
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,html,css,js,git,github,maven,postman" />
+
 </p>
 
-### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/JDBC-0A66C2?style=for-the-badge" />
-</p>
-
-### 🧰 Tools & IDEs
-<p>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JDBC-0A66C2?style=for-the-badge"/>
 </p>
 
 ---
@@ -73,8 +54,10 @@ I am a **results-driven Java Backend Developer** with **1+ year of hands-on expe
 - Developed and maintained **scalable backend applications** using Java and Spring Boot  
 - Designed and implemented **RESTful APIs** for efficient client-server communication  
 - Performed **CRUD operations using MongoDB with Spring Data**  
-- Enhanced **application performance, reliability, and code quality**
-- 
+- Enhanced **application performance, reliability, and code quality**  
+
+---
+
 ## 🚀 Projects
 
 ### 🏦 Bank Management System
@@ -113,12 +96,18 @@ I am a **results-driven Java Backend Developer** with **1+ year of hands-on expe
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhillawale07&theme=tokyonight" height="150" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhillawale07&theme=tokyo-night" />
+</p>
+
 ---
 
 ## 💬 Professional Philosophy
 
 > I believe in writing **clean, scalable, and maintainable code** that solves real-world problems efficiently.  
 > Strong focus on **performance, readability, and long-term maintainability**.
+
+---
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:111827&section=footer" width="100%" />
