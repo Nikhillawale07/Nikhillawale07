@@ -52,14 +52,14 @@ I am a **results-driven Java Backend Developer** with **1+ year of hands-on expe
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 
-<br><br>
+<br
 
 <strong>Databases & Cloud</strong><br>
 <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-<br><br>
+<br>
 
 <strong>Soft Skills</strong><br>
 <img src="https://img.shields.io/badge/Problem_Solving-0A66C2?style=for-the-badge"/>
