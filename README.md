@@ -15,13 +15,13 @@
 
 ## 🧑‍💻 About Me
 
-I am a **results-driven Java Backend Developer** with **1+ year of hands-on experience** in designing and developing scalable, high-performance applications.
+I am a **Java Backend Developer** with **1+ year of hands-on experience** building scalable and high-performance applications.
 
 - 💼 Currently working as **Junior Software Engineer at 3Di Systems Solutions Pvt. Ltd.**
-- ⚙️ Strong expertise in **Java, Spring Boot, Hibernate, REST APIs**
-- 🗄️ Experienced in **MySQL & MongoDB (SQL + NoSQL)**
-- 🧠 Passionate about **Data Structures & Algorithms and Clean Code**
-- 🚀 Focused on building **efficient, maintainable, and production-ready systems**
+- ⚙️ Skilled in **Java, Spring Boot, Hibernate, REST APIs**
+- 🗄️ Experienced with **MySQL & MongoDB (SQL + NoSQL)**
+- 🧠 Strong interest in **Data Structures & Algorithms**
+- 🚀 Focused on developing **clean, maintainable, and production-ready systems**
 
 ---
 
@@ -29,11 +29,11 @@ I am a **results-driven Java Backend Developer** with **1+ year of hands-on expe
 
 ### 💻 Languages & Web Technologies
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </p>
 
 ### ⚙️ Frameworks & Libraries
@@ -59,7 +59,7 @@ I am a **results-driven Java Backend Developer** with **1+ year of hands-on expe
 
 ### 🗄️ Databases
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
@@ -71,40 +71,31 @@ I am a **results-driven Java Backend Developer** with **1+ year of hands-on expe
 **3Di Systems Solutions Pvt. Ltd.** *(Sep 2025 – Present)*  
 
 - Developed and maintained **scalable backend applications** using Java and Spring Boot  
-- Designed and implemented **RESTful APIs** for efficient client-server communication  
+- Designed and implemented **RESTful APIs**  
 - Performed **CRUD operations using MongoDB with Spring Data**  
-- Enhanced **application performance, reliability, and code quality**  
+- Improved **application performance and code quality**  
 
 ### 💻 Software Engineer Intern  
 **3Di Systems Solutions Pvt. Ltd.** *(Mar 2025 – Sep 2025)*  
 
-- Gained practical experience in **Java backend development & frameworks**  
-- Automated workflows and improved **system efficiency**  
-- Worked on **bug fixing, optimization, and feature development**  
-
----
-
-## 🚀 Projects
-
-### 🏦 Bank Management System
-- Developed using **Spring Boot, Hibernate, JPA, MySQL**
-- Implemented **Spring Security for authentication & authorization**
-- Designed **REST APIs for frontend-backend integration**
-- Features: Account management, transactions, admin dashboard
-
-### 🧘 Virtual Yoga Assistant (AI/ML)
-- Built using **Python, OpenCV, MediaPipe, TensorFlow**
-- Developed real-time **pose detection and correction system**
-- Provided **AI-based feedback for posture improvement**
+- Worked on **Java backend development and frameworks**  
+- Assisted in **feature development, bug fixing, and optimization**  
+- Improved **system efficiency through automation**  
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nikhillawale1999/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Nikhillawale07" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:nikhillawale2911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nikhillawale1999/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Nikhillawale07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:nikhillawale2911@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -120,8 +111,7 @@ I am a **results-driven Java Backend Developer** with **1+ year of hands-on expe
 
 ## 💬 Professional Philosophy
 
-> I believe in writing **clean, scalable, and maintainable code** that solves real-world problems efficiently.  
-> Strong focus on **performance, readability, and long-term maintainability**.
+> I focus on writing **clean, scalable, and maintainable code** that solves real-world problems efficiently, with emphasis on **performance, readability, and long-term sustainability**.
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:111827&section=footer" width="100%" />
