@@ -27,13 +27,10 @@ I am a **results-driven Java Backend Developer** with **1+ year of hands-on expe
 
 ## 🛠️ Technical Skills
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&center=true&vCenter=true&width=900&lines=Languages+and+Frameworks+:+Java%2C+SQL%2C+Spring%2C+Spring+Boot%2C+Hibernate%2C+Collection%2C+Spring+Security%2C+Spring+MVC;APIs+And+Tools+:+RESTful+APIs%2C+Eclipse%2C+IntelliJ+IDEA%2C+VS+Code%2C+Postman%2C+Maven%2C+Git%2C+GitHub%2C+GitLab;Databases+and+Cloud+:+MySQL%2C+MongoDB%2C+AWS;Soft+Skills+:+Problem+Solving%2C+Communication%2C+Teamwork" alt="Typing Skills Animation" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,aws,git,github,postman,vscode" />
-</p>
+**Languages and Frameworks:** Java, SQL, Spring, Spring Boot, Hibernate, Collection, Spring Security, Spring MVC  
+**APIs and Tools:** RESTful APIs, Eclipse, IntelliJ IDEA, VS Code, Postman, Maven, Git, GitHub, GitLab  
+**Databases and Cloud:** MySQL, MongoDB, AWS  
+**Soft Skills:** Problem Solving, Communication, Teamwork  
 
 ---
 
