@@ -112,6 +112,24 @@ I am a **results-driven Java Backend Developer** with **1+ year of hands-on expe
 </p>
 
 <p align="center">
+  <a href="https://leetcode.com/u/Nikhil_Lawale/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Nikhil_Lawale-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/nikhillawale2911" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-nikhillawale2911-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/nikhil_lawale_07/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-nikhil_lawale_07-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/nikhil.lawale.7/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-nikhil.lawale.7-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nikhillawale07&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
