@@ -15,12 +15,12 @@
 
 ## 🧑‍💻 About Me
 
-I am a **Java Backend Developer** with **1+ year of hands-on experience** building scalable and high-performance applications.
+I am a **results-driven Java Backend Developer** with **1+ year of hands-on experience** in designing and developing scalable, high-performance applications.
 
-- ⚙️ Skilled in **Java, Spring Boot, Hibernate, REST APIs**
-- 🗄️ Experienced with **MySQL & MongoDB (SQL + NoSQL)**
-- 🧠 Strong interest in **Data Structures & Algorithms**
-- 🚀 Focused on developing **clean, maintainable, and production-ready systems**
+- ⚙️ Strong expertise in **Java, Spring Boot, Hibernate, REST APIs**
+- 🗄️ Experienced in **MySQL & MongoDB (SQL + NoSQL)**
+- 🧠 Passionate about **Data Structures & Algorithms and Clean Code**
+- 🚀 Focused on building **efficient, maintainable, and production-ready systems**
 
 ---
 
@@ -57,7 +57,8 @@ I am a **Java Backend Developer** with **1+ year of hands-on experience** buildi
 
 ## 💬 Professional Philosophy
 
-> I focus on writing **clean, scalable, and maintainable code** that solves real-world problems efficiently, with emphasis on **performance, readability, and long-term sustainability**.
+> I believe in writing **clean, scalable, and maintainable code** that solves real-world problems efficiently.  
+> Strong focus on **performance, readability, and long-term maintainability**.
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:111827&section=footer" width="100%" />
