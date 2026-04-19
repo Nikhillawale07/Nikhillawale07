@@ -73,17 +73,8 @@ I am a **results-driven Java Backend Developer** with **1+ year of hands-on expe
 - Developed and maintained **scalable backend applications** using Java and Spring Boot  
 - Designed and implemented **RESTful APIs** for efficient client-server communication  
 - Performed **CRUD operations using MongoDB with Spring Data**  
-- Enhanced **application performance, reliability, and code quality**  
-
-### 💻 Software Engineer Intern  
-**3Di Systems Solutions Pvt. Ltd.** *(Mar 2025 – Sep 2025)*  
-
-- Gained practical experience in **Java backend development & frameworks**  
-- Automated workflows and improved **system efficiency**  
-- Worked on **bug fixing, optimization, and feature development**  
-
----
-
+- Enhanced **application performance, reliability, and code quality**
+- 
 ## 🚀 Projects
 
 ### 🏦 Bank Management System
