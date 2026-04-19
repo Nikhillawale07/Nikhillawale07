@@ -39,7 +39,7 @@ I am a **results-driven Java Backend Developer** with **1+ year of hands-on expe
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge"/>
 
-<br><br>
+<br>
 
 <strong>APIs & Tools</strong><br>
 <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
