@@ -17,7 +17,6 @@
 
 I am a **Java Backend Developer** with **1+ year of hands-on experience** building scalable and high-performance applications.
 
-- 💼 Currently working as **Junior Software Engineer at 3Di Systems Solutions Pvt. Ltd.**
 - ⚙️ Skilled in **Java, Spring Boot, Hibernate, REST APIs**
 - 🗄️ Experienced with **MySQL & MongoDB (SQL + NoSQL)**
 - 🧠 Strong interest in **Data Structures & Algorithms**
@@ -27,60 +26,7 @@ I am a **Java Backend Developer** with **1+ year of hands-on experience** buildi
 
 ## 🛠️ Technical Skills
 
-### 💻 Languages & Web Technologies
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</p>
-
-### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/JDBC-0A66C2?style=for-the-badge" />
-</p>
-
-### 🧰 Tools & IDEs
-<p>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
----
-
-## 💼 Professional Experience
-
-### 🏢 Junior Software Engineer  
-**3Di Systems Solutions Pvt. Ltd.** *(Sep 2025 – Present)*  
-
-- Developed and maintained **scalable backend applications** using Java and Spring Boot  
-- Designed and implemented **RESTful APIs**  
-- Performed **CRUD operations using MongoDB with Spring Data**  
-- Improved **application performance and code quality**  
-
-### 💻 Software Engineer Intern  
-**3Di Systems Solutions Pvt. Ltd.** *(Mar 2025 – Sep 2025)*  
-
-- Worked on **Java backend development and frameworks**  
-- Assisted in **feature development, bug fixing, and optimization**  
-- Improved **system efficiency through automation**  
+**Languages & Technologies:** Java | Spring Boot, Spring MVC, Spring Security | Hibernate, JDBC | REST APIs | MySQL, MongoDB | HTML, CSS, JavaScript | Git, GitHub, Maven, Postman
 
 ---
 
