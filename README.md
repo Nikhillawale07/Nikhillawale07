@@ -11,10 +11,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nikhillawale07&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -32,16 +28,11 @@ I am a **results-driven Java Backend Developer** with **1+ year of hands-on expe
 ## 🛠️ Technical Skills
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,html,css,js,git,github,maven,postman" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&center=true&vCenter=true&width=900&lines=Languages+and+Frameworks+:+Java%2C+SQL%2C+Spring%2C+Spring+Boot%2C+Hibernate%2C+Collection%2C+Spring+Security%2C+Spring+MVC;APIs+And+Tools+:+RESTful+APIs%2C+Eclipse%2C+IntelliJ+IDEA%2C+VS+Code%2C+Postman%2C+Maven%2C+Git%2C+GitHub%2C+GitLab;Databases+and+Cloud+:+MySQL%2C+MongoDB%2C+AWS;Soft+Skills+:+Problem+Solving%2C+Communication%2C+Teamwork" alt="Typing Skills Animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JDBC-0A66C2?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,aws,git,github,postman,vscode" />
 </p>
 
 ---
@@ -96,18 +87,12 @@ I am a **results-driven Java Backend Developer** with **1+ year of hands-on expe
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhillawale07&theme=tokyonight" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhillawale07&theme=tokyo-night" />
-</p>
-
 ---
 
 ## 💬 Professional Philosophy
 
 > I believe in writing **clean, scalable, and maintainable code** that solves real-world problems efficiently.  
 > Strong focus on **performance, readability, and long-term maintainability**.
-
----
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:111827&section=footer" width="100%" />
